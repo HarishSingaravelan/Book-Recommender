@@ -3,7 +3,6 @@
 This project is a Semantic Book Recommender System built using Gradio, LangChain, and ChromaDB. It recommends books based on user queries, categories, and emotional tones.
 
 <img src = "data/webpage.png" alt = "webpage image">
-![alt text](image.png)
 
 ---
 Setup Instructions
