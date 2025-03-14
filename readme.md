@@ -7,7 +7,7 @@ This project is a Semantic Book Recommender System built using Gradio, LangChain
 ---
 Setup Instructions
 
-1.Create a Virtual Environment
+### Create a Virtual Environment
 
 It's recommended to use a virtual environment to manage dependencies and avoid conflicts.
 
