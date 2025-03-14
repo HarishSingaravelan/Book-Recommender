@@ -54,5 +54,5 @@ If you face any issues:
 - Verify that all dependencies are correctly installed.
 - Check the file paths in your project structure.
 
-For further assistance, feel free to ask! 😊
+For further assistance, feel free to ask! 🙌
 
