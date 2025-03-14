@@ -1,6 +1,9 @@
-# Book Recommender System
+# Book Recommender System 📚
 
 This project is a Semantic Book Recommender System built using Gradio, LangChain, and ChromaDB. It recommends books based on user queries, categories, and emotional tones.
+
+<img src = "data/webpage.png" alt = "webpage image">
+![alt text](image.png)
 
 ---
 Setup Instructions
@@ -31,9 +34,11 @@ pip install -r requirements.txt
 ---
 ### Run the Project
 
-To start the Gradio dashboard, run the following command:
+To start the Gradio dashboard, run the following command from root folder:
+
 ```
-python src/gradio-dashboard.py
+cd src
+python gradio-dashboard.py
 ```
 
 ---
@@ -46,11 +51,9 @@ Once the command runs successfully, Gradio will provide a local URL (e.g., http:
 
 If you face any issues:
 
-Ensure the virtual environment is activated.
-
-Verify that all dependencies are correctly installed.
-
-Check the file paths in your project structure.
+- Ensure the virtual environment is activated.
+- Verify that all dependencies are correctly installed.
+- Check the file paths in your project structure.
 
 For further assistance, feel free to ask! 😊
 
