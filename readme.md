@@ -5,7 +5,7 @@ This project is a Semantic Book Recommender System built using Gradio, LangChain
 <img src = "data/webpage.png" alt = "webpage image">
 
 ---
-Setup Instructions
+## Setup Instructions
 
 ### Create a Virtual Environment
 
